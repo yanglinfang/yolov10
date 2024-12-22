@@ -1,0 +1,225 @@
+{
+  "id": "6757e7fe7ec58b47a09a7355",
+  "datasetId": "6757e4850e256b9ca85d6051",
+  "url": "https://gate.dataloop.ai/api/v1/items/6757e7fe7ec58b47a09a7355",
+  "dataset": "https://gate.dataloop.ai/api/v1/datasets/6757e4850e256b9ca85d6051",
+  "createdAt": "2024-12-10T07:04:30.318Z",
+  "dir": "/",
+  "filename": "/photo-1007_singular_display_fullPicture.jpeg",
+  "type": "file",
+  "hidden": false,
+  "metadata": {
+    "system": {
+      "channels": 3,
+      "encoding": "7bit",
+      "exif": {
+        "DateTimeOriginal": "2023-11-05T08:48:15.000Z",
+        "ExposureTime": 0.0035,
+        "FNumber": 2.2,
+        "ISO": 54,
+        "Model": "Ray-Ban Meta Smart Glasses",
+        "Orientation": 1,
+        "WhiteBalance": 0
+      },
+      "height": 4032,
+      "isBinary": true,
+      "mimetype": "image/jpeg",
+      "originalname": "photo-1007_singular_display_fullPicture.jpeg",
+      "refs": [
+        {
+          "id": "6757e866be41ec1c26d537fc",
+          "metadata": {
+            "creator": "oliver.kiprono@digitaldividedata.com",
+            "status": "completed",
+            "timestamp": "2024-12-10T08:30:45.085Z"
+          },
+          "type": "assignment"
+        },
+        {
+          "id": "6757e866be41ecdad7d537fb",
+          "metadata": {
+            "creator": "oliver.kiprono@digitaldividedata.com",
+            "status": "completed",
+            "timestamp": "2024-12-10T08:30:45.085Z"
+          },
+          "type": "task"
+        }
+      ],
+      "size": 3094789,
+      "taskStatusLog": [
+        {
+          "action": "created",
+          "status": {
+            "assignmentId": "6757e866be41ec1c26d537fc",
+            "creator": "oliver.kiprono@digitaldividedata.com",
+            "status": "completed",
+            "taskId": "6757e866be41ecdad7d537fb",
+            "timestamp": "2024-12-10T08:30:45.085Z"
+          }
+        }
+      ],
+      "thumbnailId": "6757e80fce18f94c1e67658e",
+      "width": 3024
+    }
+  },
+  "name": "photo-1007_singular_display_fullPicture.jpeg",
+  "creator": "kevin.odhiambo@digitaldividedata.com",
+  "updatedAt": "2024-12-10T08:30:45.102Z",
+  "updatedBy": "oliver.kiprono@digitaldividedata.com",
+  "stream": "https://gate.dataloop.ai/api/v1/items/6757e7fe7ec58b47a09a7355/stream",
+  "thumbnail": "https://gate.dataloop.ai/api/v1/items/6757e7fe7ec58b47a09a7355/thumbnail",
+  "annotations": [
+    {
+      "id": "6757fb83cfc0bfe794b4c69a",
+      "datasetId": "6757e4850e256b9ca85d6051",
+      "itemId": "6757e7fe7ec58b47a09a7355",
+      "url": "https://gate.dataloop.ai/api/v1/annotations/6757fb83cfc0bfe794b4c69a",
+      "item": "https://gate.dataloop.ai/api/v1/items/6757e7fe7ec58b47a09a7355",
+      "dataset": "https://gate.dataloop.ai/api/v1/datasets/6757e4850e256b9ca85d6051",
+      "type": "box",
+      "label": "Litter",
+      "attributes": [],
+      "coordinates": [
+        {
+          "x": 1338.3199999999997,
+          "y": 2004.8442651363157,
+          "z": 0
+        },
+        {
+          "x": 1651.6999999999994,
+          "y": 2433.0400000000004,
+          "z": 0
+        }
+      ],
+      "metadata": {
+        "system": {
+          "assignmentId": "6757e866be41ec1c26d537fc",
+          "attributes": {
+            "1": "small",
+            "2": "Beverage Containers - plastic "
+          },
+          "automated": false,
+          "clientId": "6cedc858-9750-4104-8139-7e7602c08e0f",
+          "coordinateVersion": "v2",
+          "endFrame": 0,
+          "endTime": 0,
+          "frame": 0,
+          "isOnlyLocal": false,
+          "isOpen": false,
+          "itemLinks": [],
+          "objectId": "1",
+          "openAnnotationVersion": "1.85.0-prod.2",
+          "recipeId": "67570c0e73f290de2acaa576",
+          "snapshots_": [],
+          "startTime": 0,
+          "system": false,
+          "taskId": "6757e866be41ecdad7d537fb"
+        },
+        "user": {}
+      },
+      "creator": "oliver.kiprono@digitaldividedata.com",
+      "createdAt": "2024-12-10T08:27:47.577Z",
+      "updatedBy": "tony.orimba@digitaldividedata.com",
+      "updatedAt": "2024-12-11T07:56:42.693Z",
+      "hash": "fad923ed9dd5e0324715715ffc2e23f3d6f1df64",
+      "source": "ui"
+    },
+    {
+      "id": "6757fba0bf993e85620366f2",
+      "datasetId": "6757e4850e256b9ca85d6051",
+      "itemId": "6757e7fe7ec58b47a09a7355",
+      "url": "https://gate.dataloop.ai/api/v1/annotations/6757fba0bf993e85620366f2",
+      "item": "https://gate.dataloop.ai/api/v1/items/6757e7fe7ec58b47a09a7355",
+      "dataset": "https://gate.dataloop.ai/api/v1/datasets/6757e4850e256b9ca85d6051",
+      "type": "box",
+      "label": "Grabber",
+      "attributes": [],
+      "coordinates": [
+        {
+          "x": 1468.27,
+          "y": 2270.9699999999993,
+          "z": 0
+        },
+        {
+          "x": 2084.9113918487633,
+          "y": 2786.059686605734,
+          "z": 0
+        }
+      ],
+      "metadata": {
+        "system": {
+          "assignmentId": "6757e866be41ec1c26d537fc",
+          "attributes": {},
+          "automated": false,
+          "clientId": "f066e939-c3c1-4372-8e63-31aa6ecb661c",
+          "coordinateVersion": "v2",
+          "endFrame": 0,
+          "endTime": 0,
+          "frame": 0,
+          "isOnlyLocal": false,
+          "isOpen": false,
+          "itemLinks": [],
+          "objectId": "2",
+          "openAnnotationVersion": "1.85.0-prod.2",
+          "recipeId": "67570c0e73f290de2acaa576",
+          "snapshots_": [],
+          "startTime": 0,
+          "system": false,
+          "taskId": "6757e866be41ecdad7d537fb"
+        },
+        "user": {}
+      },
+      "creator": "oliver.kiprono@digitaldividedata.com",
+      "createdAt": "2024-12-10T08:28:16.416Z",
+      "updatedBy": "tony.orimba@digitaldividedata.com",
+      "updatedAt": "2024-12-11T07:56:42.688Z",
+      "hash": "88a4e222cfa760c5539d17e666295b0500c0cf9a",
+      "source": "ui"
+    },
+    {
+      "id": "6757fba6c46f7d0627516843",
+      "datasetId": "6757e4850e256b9ca85d6051",
+      "itemId": "6757e7fe7ec58b47a09a7355",
+      "url": "https://gate.dataloop.ai/api/v1/annotations/6757fba6c46f7d0627516843",
+      "item": "https://gate.dataloop.ai/api/v1/items/6757e7fe7ec58b47a09a7355",
+      "dataset": "https://gate.dataloop.ai/api/v1/datasets/6757e4850e256b9ca85d6051",
+      "type": "point",
+      "label": "Litter Centre",
+      "attributes": [],
+      "coordinates": {
+        "x": 1436.129979571443,
+        "y": 2206.6816882361773,
+        "z": 0
+      },
+      "metadata": {
+        "system": {
+          "assignmentId": "6757e866be41ec1c26d537fc",
+          "attributes": {},
+          "automated": false,
+          "clientId": "b89822fb-19f6-4d0d-a6fc-47b7802dddfc",
+          "coordinateVersion": "v1",
+          "endFrame": 0,
+          "endTime": 0,
+          "frame": 0,
+          "itemLinks": [],
+          "objectId": "3",
+          "openAnnotationVersion": "1.84.1-prod.0",
+          "recipeId": "67570c0e73f290de2acaa576",
+          "snapshots_": [],
+          "startTime": 0,
+          "system": false,
+          "taskId": "6757e866be41ecdad7d537fb"
+        },
+        "user": {}
+      },
+      "creator": "oliver.kiprono@digitaldividedata.com",
+      "createdAt": "2024-12-10T08:28:22.672Z",
+      "updatedBy": "oliver.kiprono@digitaldividedata.com",
+      "updatedAt": "2024-12-10T08:28:22.672Z",
+      "hash": "4382d78e73edd571a6fd2402c8dceeebf641b3d1",
+      "source": "ui"
+    }
+  ],
+  "annotationsCount": 3,
+  "annotated": true
+}
