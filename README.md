@@ -66,6 +66,9 @@ python app.py
 # Please visit http://127.0.0.1:7860
 ```
 
+## Docker
+`docker run -p 8888:8888 -v ${PWD}:/app yolov10-jupyter`
+
 ## Validation
 [`yolov10n`](https://huggingface.co/jameslahm/yolov10n)  [`yolov10s`](https://huggingface.co/jameslahm/yolov10s)  [`yolov10m`](https://huggingface.co/jameslahm/yolov10m)  [`yolov10b`](https://huggingface.co/jameslahm/yolov10b)  [`yolov10l`](https://huggingface.co/jameslahm/yolov10l)  [`yolov10x`](https://huggingface.co/jameslahm/yolov10x)  
 ```
