@@ -68,7 +68,7 @@ python app.py
 
 ## Docker
 First build docker 
-`docker build -t yolov11-gpu .`
+`docker build -t yolov10-jupyter .`
 then run 
 `docker run -p 8888:8888 -v ${PWD}:/app yolov10-jupyter:latest`
 
